@@ -14,7 +14,7 @@ In addition, there is a pattern to the missingness as features representing a ce
 
 * The target variable has two distinct classes. Most of the clients (91.9%) repaid their loans while 8.1% were defaulters. This implies that the target variable is imbalanced, which requires a proper crossvalidation strategy for good model evaluation.
 
- ![alt text](https://github.com/adeyinkaoresanya/Don-t-Overfit-Challenge/blob/main/Images/target.PNG "Distribution of the target variable")
+ ![alt text](https://github.com/adeyinkaoresanya/Home-Credit-Default-Risk-Prediction/blob/main/Images/target%20variable.PNG "Distribution of the target variable")
 
 * The distribution of income earned by the clients is skewed, which is not surprising, as well as the credit amount of the loan and loan annuity.
 
@@ -31,6 +31,6 @@ Custom transformers were built using Sklearn pipeline to transform the variables
 
 ## Model Building and Evaluation
 
-*	Out of six models that were built, LGBM had a higher local validation score but catboost algorithm achieved a higher score on the private leaderboard(0.72958)c
+*	Out of six models that were built, LGBM had a higher local validation score but catboost algorithm achieved a higher score on the private leaderboard(0.72958)
 
-![alt text](https://github.com/adeyinkaoresanya/Don-t-Overfit-Challenge/blob/main/Images/Models_table.PNG "Models")
+![alt text](https://github.com/adeyinkaoresanya/Home-Credit-Default-Risk-Prediction/blob/main/Images/models.PNG")
