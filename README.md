@@ -33,4 +33,4 @@ Custom transformers were built using Sklearn pipeline to transform the variables
 
 *	Out of six models that were built, LGBM had a higher local validation score but catboost algorithm achieved a higher score on the private leaderboard(0.72958)
 
-![alt text](https://github.com/adeyinkaoresanya/Home-Credit-Default-Risk-Prediction/blob/main/Images/models.PNG")
+![alt text](https://github.com/adeyinkaoresanya/Home-Credit-Default-Risk-Prediction/blob/main/Images/models.PNG "models table")
